@@ -1,0 +1,3 @@
+[submodule "lib/ergodox_infinity_display"]
+	path = lib/ergodox_infinity_display
+	url = git@github.com:nikchi/Ergo_Infinity_Display.git
